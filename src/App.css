@@ -1,0 +1,7 @@
+body{
+    justify-content: center;
+    background: linear-gradient(180deg, #7E60BF 60%, #E4B1F0);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}

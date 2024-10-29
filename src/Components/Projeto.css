@@ -1,0 +1,32 @@
+.titulo{
+    margin-top: -150px;
+    margin-left: 140px;
+}
+.primeiro, .segundo, .terceiro, .quarto, .quinto{
+    margin: 50px 20px 50px 20px ;
+    text-decoration: none;
+    color: #FFFF;
+    padding: 30px 50px 30px 50px ;
+    background-color: #433878; 
+    border-radius: 8px;
+    font-weight: 600;
+    
+}
+
+.pato{
+    width: 150px;
+    height: auto;
+    margin: -120px -10px 50px 300px;
+}
+
+.primeiro:hover{background: linear-gradient(45grad, #433878, #7e60bf, #e4b1f0, #ffe1ff); border:2px solid #433878;}
+.segundo:hover{background: linear-gradient(45grad, #433878, #7e60bf, #e4b1f0, #ffe1ff);border:2px solid #433878;}
+.terceiro:hover{background: linear-gradient(45grad, #433878, #7e60bf, #e4b1f0, #ffe1ff);border:2px solid #433878;}
+.quarto:hover{background: linear-gradient(45grad, #433878, #7e60bf, #e4b1f0, #ffe1ff);border:2px solid #433878;}
+.quinto:hover{background: linear-gradient(45grad, #433878, #7e60bf, #e4b1f0, #ffe1ff);border:2px solid #433878;}
+
+.placa{
+    width: 100px;
+    height: auto;
+    margin:120px 20px -160px -10px;
+}
